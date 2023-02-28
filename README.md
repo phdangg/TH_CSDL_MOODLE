@@ -1,4 +1,5 @@
-﻿![](img/Aspose.Words.8e56d8a0-ad55-42e1-9a8a-48edd2505b71.001.png)
+﻿BT tuần 2 sẽ có tên file là "202012345@2.sql".
+![](img/Aspose.Words.8e56d8a0-ad55-42e1-9a8a-48edd2505b71.001.png)
 
 
 
